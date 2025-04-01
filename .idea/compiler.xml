@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="09-Thread-Pool" />
         <module name="03-Implement-Runnable-Interface" />
+        <module name="10-Daemon-And-Non-Daemon-Threads" />
         <module name="05-Join-IsAlive" />
         <module name="01-Introduction" />
         <module name="08-Inter-Thread-Communication" />

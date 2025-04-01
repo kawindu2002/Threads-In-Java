@@ -14,6 +14,7 @@
         <option value="$PROJECT_DIR$/07-Synchronized-Keyword/pom.xml" />
         <option value="$PROJECT_DIR$/08-Inter-Thread-Communication/pom.xml" />
         <option value="$PROJECT_DIR$/09-Thread-Pool/pom.xml" />
+        <option value="$PROJECT_DIR$/10-Daemon-And-Non-Daemon-Threads/pom.xml" />
       </list>
     </option>
   </component>
