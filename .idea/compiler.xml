@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="09-Thread-Pool" />
         <module name="03-Implement-Runnable-Interface" />
         <module name="05-Join-IsAlive" />
         <module name="01-Introduction" />

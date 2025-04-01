@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/06-Thread-Priority/pom.xml" />
         <option value="$PROJECT_DIR$/07-Synchronized-Keyword/pom.xml" />
         <option value="$PROJECT_DIR$/08-Inter-Thread-Communication/pom.xml" />
+        <option value="$PROJECT_DIR$/09-Thread-Pool/pom.xml" />
       </list>
     </option>
   </component>
