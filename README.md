@@ -33,8 +33,8 @@ Each folder includes:
 
 ## 📄 Full Notes (Google Docs)
 
-For detailed explanations and theory behind the examples, read the full document here:  
-🔗 [Download or View: Threads in Java - Full Notes](https://docs.google.com/document/d/1wv2bH8f378CmmLIUn-zvAtyGyQtE12C3uQ4focisktQ/edit?usp=sharing)
+- For detailed explanations and theory behind the examples, read the full document here:  
+🔗 [Threads in Java - Full Notes](https://docs.google.com/document/d/1wv2bH8f378CmmLIUn-zvAtyGyQtE12C3uQ4focisktQ/edit?usp=sharing)
 
 
 ## 🤝 Contributing
